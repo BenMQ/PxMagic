@@ -21,7 +21,6 @@ fhp.egg-info/
 run_current.sh
 
 # Ignore sensitive files
-*authentication.py
 
 # Ignore test photo
 fhp/tests/test_photo.jpg
